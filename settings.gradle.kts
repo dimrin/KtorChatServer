@@ -1,0 +1,1 @@
+rootProject.name = "com.dymrin.ktor-chat"
